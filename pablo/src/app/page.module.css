@@ -1,0 +1,52 @@
+
+.by{
+  text-align: center;
+}
+
+
+.desc{
+  text-align: center;
+}
+
+
+.title{
+  text-align: center;
+  color: red;
+}
+
+.de{
+  text-align: center;
+}
+
+
+.imgg{
+  width: 50%;
+  height: 90%;
+border-radius: 10px;
+display: inline-block;
+margin-left: 300px;
+}
+
+.imgh{
+  width: 20%;
+  height: 20%;
+}
+
+.sss{
+text-align: center;
+}
+
+
+.ba{
+  color: purple;
+  text-align: center;
+}
+
+.or{
+  color: brown;
+}
+
+.ii{
+  color: blue;
+}
+
